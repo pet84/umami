@@ -1,5 +1,10 @@
 # Agents
 
+## User preferences
+
+- The user's name is **Petr**.
+- Petr prefers communication in **Czech** (čeština).
+
 ## Cursor Cloud specific instructions
 
 ### Project overview
